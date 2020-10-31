@@ -1,7 +1,7 @@
 {
-  "name": "Getting Started Example",
+  "name": "TComo",
   "version": "1.0",
-  "description": "Build an Extension!",
+  "description": "T-Mobile Cookie Monster",
   "permissions": ["declarativeContent","storage"],
   "background": {
     "scripts": ["background.js"],
@@ -10,16 +10,16 @@
   "page_action": {
     "default_popup": "popup.html",
     "default_icon": {
-      "16": "images/get_started16.png",
-      "32": "images/get_started32.png",
-      "48": "images/get_started48.png",
-      "128": "images/get_started128.png"
+      "16": "images/t_como16.png",
+      "32": "images/t_como32.png",
+      "48": "images/t_como48.png",
+      "128": "images/t_como128.png"
     },
     "icons": {
-      "16": "images/get_started16.png",
-      "32": "images/get_started32.png",
-      "48": "images/get_started48.png",
-      "128": "images/get_started128.png"
+      "16": "images/t_como16.png",
+      "32": "images/t_como32.png",
+      "48": "images/t_como48.png",
+      "128": "images/t_como128.png"
     }
   },
   "manifest_version": 2
