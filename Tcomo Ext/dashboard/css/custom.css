@@ -45,3 +45,8 @@
     background-color: #e20074;
     border-color: #e20074;
   }
+
+.link:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}

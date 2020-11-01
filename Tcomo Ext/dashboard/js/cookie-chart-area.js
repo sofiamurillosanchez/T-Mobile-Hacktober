@@ -31,7 +31,7 @@ var ctx = document.getElementById("cookies-bar-chart");
 var myBarChart = new Chart(ctx, {
   type: 'bar',
   data: {
-    labels: ["SESSION", "PERMANENT", "THIRD-PARTY", "FLASH", "ZOMBIE"],
+    labels: ["Strictly Necessary", "Functional", "Performance", "Social Media", "Targeting"],
     datasets: [{
       label: "Count",
       backgroundColor: ["#4e73df", "#858796", "#1cc88a", "#36b9cc", "#f6c23e"],
@@ -113,7 +113,7 @@ var ctx = document.getElementById("cookies-pie-chart");
 var myPieChart = new Chart(ctx, {
   type: 'doughnut',
   data: {
-    labels: ["SESSION", "PERMANENT", "THIRD-PARTY", "FLASH", "ZOMBIE"],
+    labels: ["Strictly Necessary", "Functional", "Performance", "Social Media", "Targeting"],
     datasets: [{
       data: [10, 5, 4, 7, 10 ],
       backgroundColor: ["#4e73df", "#858796", "#1cc88a", "#36b9cc", "#f6c23e"],
