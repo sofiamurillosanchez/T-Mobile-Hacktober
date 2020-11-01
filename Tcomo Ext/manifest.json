@@ -2,7 +2,7 @@
   "name": "TComo",
   "version": "1.0",
   "description": "T-Mobile Cookie Monster",
-  "permissions": ["declarativeContent","storage"],
+  "permissions": ["cookies", "Tabs", "http://*/*", "https://*/*","declarativeContent","storage"],
   "background": {
     "scripts": ["background.js"],
     "persistent": false
