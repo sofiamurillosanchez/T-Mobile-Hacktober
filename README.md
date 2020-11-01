@@ -13,3 +13,6 @@ In order to open this extension, you will need to clone the files to your text-e
 
 If this does not work, you can access the browser version of the extension through the file "popup.html", simply right-click and hit "open as browser" and you should be able to view the extension.
 
+We hope you have a wonderful day!
+
+T-CoMo Team
