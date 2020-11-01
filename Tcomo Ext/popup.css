@@ -1,0 +1,39 @@
+html *
+{
+   font-size: 1em !important;
+   color: #000 !important;
+   font-family: Nunito !important;
+}
+
+body{
+  margin: 0px;
+}
+
+h2{
+  text-align: center;
+}
+.bg-tcomo {
+    background-color: #e20074 !important;
+}
+
+.btn-tcomo {
+  background-color: #e20074 !important;
+  color: #fff !important;
+  border-radius: 10px;
+  border: 2px solid #FFF;
+}
+
+.text-white {
+  color: #fff !important;
+}
+
+.container{
+  padding-top: 4px;
+  padding-bottom: 12px;
+  width: 250px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
