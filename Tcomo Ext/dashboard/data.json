@@ -1,0 +1,94 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "url": "accounts.google.com",
+            "cookie_type":"Strictly Necessary",
+            "data_size":"100B",
+            "storage_path":"ABC/124/xxxxandk.temp",
+            "saved_since":"10/16/2010",
+            "isMalicious":"False"
+        },
+        {
+            "id": 2,
+            "url": "amazon",
+            "cookie_type":"Strictly Necessary",
+            "data_size":"10B",
+            "storage_path":"ABC/73952/nksdviuska.temp",
+            "saved_since":"01/19/2019",
+            "isMalicious":"False"
+        },
+        {
+            "id": 3,
+            "url": "apple.com",
+            "cookie_type":"Strictly Necessary",
+            "data_size":"2B",
+            "storage_path":"app/jbdiv4/kbvijbv.temp",
+            "saved_since":"03/04/2020",
+            "isMalicious":"False"
+        },
+        {
+            "id": 4,
+            "url": "2020censes.gov",
+            "cookie_type":"Functional",
+            "data_size":"1B",
+            "storage_path":"gov/23f/dvibuibdk.temp",
+            "saved_since":"01/05/2020",
+            "isMalicious":"False"
+        },
+        {
+            "id": 5,
+            "url": "angel.co",
+            "cookie_type":"Functional",
+            "data_size":"1B",
+            "storage_path":"co/1/xjbibbis.temp",
+            "saved_since":"02/07/2017",
+            "isMalicious":"False"
+        },
+        {
+            "id": 6,
+            "url": "abcd.zoom.us",
+            "cookie_type":"Performance",
+            "data_size":"0B",
+            "storage_path":"zC/sdfwt4/andk.temp",
+            "saved_since":"10/16/2019",
+            "isMalicious":"True"
+        },
+        {
+            "id": 7,
+            "url": "app.chime.com",
+            "cookie_type":"Social Media",
+            "data_size":"100B",
+            "storage_path":"ABC/124/xxxxandk.temp",
+            "saved_since":"11/07/2014",
+            "isMalicious":"False"
+        },
+        {
+            "id": 8,
+            "url": "app.hopin.com",
+            "cookie_type":"Social Media",
+            "data_size":"20B",
+            "storage_path":"BC/1/xdk.temp",
+            "saved_since":"10/16/2019",
+            "isMalicious":"True"
+        },
+        {
+            "id": 9,
+            "url": "business.linkedin.com",
+            "cookie_type":"Social Media",
+            "data_size":"18B",
+            "storage_path":"AB/obxc4/iu8hoisandk.temp",
+            "saved_since":"12/14/2015",
+            "isMalicious":"False"
+        },
+        {
+            "id": 10,
+            "url": "ads.simpli.fi",
+            "cookie_type":"Targeting",
+            "data_size":"0B",
+            "storage_path":"nsdbvoi/1/andk.temp",
+            "saved_since":"07/30/2020",
+            "isMalicious":"True"
+        }
+    ]
+}
